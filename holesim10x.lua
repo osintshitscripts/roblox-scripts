@@ -1,6 +1,4 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
+
 --[[
 IronBrew:tm: obfuscation; Version 2.7.2
 ]]
